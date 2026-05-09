@@ -1,4 +1,4 @@
-<img width="100%" alt="functional-ui-kit-cover" src="https://github.com/functional-ui/functional-ui-kit/assets/10652039/fa34ae50-ae9b-4af7-bcce-ca5393f496f0"/>
+<img width="100%" alt="functional-ui-kit-cover" src="https://github.com/alexyakir/functional-ui-kit/assets/10652039/fa34ae50-ae9b-4af7-bcce-ca5393f496f0"/>
 
 <ul>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -18,8 +18,8 @@ Each Figma variable has a direct counterpart in CSS, so there's no confusion. Th
 <ul>
   <li>Website: www.functional-ui-kit.com</li>
   <li>Figma Library: https://www.figma.com/community/file/1338456115232271694</li>
-  <li>Storybook: https://functional-ui.github.io/functional-ui-kit</li>
-  <li>Github: www.github.com/functional-ui/functional-ui-kit</li>
+  <li>Storybook: https://alexyakir.github.io/functional-ui-kit</li>
+  <li>Github: www.github.com/alexyakir/functional-ui-kit</li>
   <li>Npm: www.npmjs.com/package/functional-ui-kit</li>
 </ul>
 
@@ -49,7 +49,7 @@ class App extends Component {
 ```
 
 ### Customizing Theme
-You can customize the theme by overriding the CSS variables. You can find the list of variables in the [theme file](https:\/\/github.com/functional-ui/functional-ui-kit/blob/main/src/css/theme-colors.css)
+You can customize the theme by overriding the CSS variables. You can find the list of variables in the [theme file](https:\/\/github.com/alexyakir/functional-ui-kit/blob/main/src/css/theme-colors.css)
 ```css
 :root {
   --fui-color-brand: var(--fui-color-green-700);

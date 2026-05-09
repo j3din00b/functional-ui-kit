@@ -37,7 +37,7 @@
   "author": "Alex Yakir",
   "repository": {
     "type": "git",
-    "url": "https://github.com/functional-ui/functional-ui-kit.git"
+    "url": "https://github.com/alexyakir/functional-ui-kit.git"
   },
   "license": "ISC",
   "dependencies": {
